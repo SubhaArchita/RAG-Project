@@ -1,0 +1,117 @@
+Chapter 3 Passenger Compartment
+3.1 Passenger Compartment Inspection Overview
+The inspection of the vehicle’s passenger compartment shall consist of separate inspections of
+items located in or on the passenger compartment to ensure they are functioning as designed
+by the manufacturer. Those items, when equipped, include the windshield, windshield wiper(s),
+mirrors, seats, seatbelts, child seat lower anchors and tethers (LATCH) system, rear window,
+and a visual inspection of the Supplemental Restraint System (SRS). Licensed technicians shall
+consult Division 12, Chapter 4 (Windshields and Mirrors – commencing at Section 26700), and
+Chapter 5, Article 3 (Safety Belts and Inflatable Restraint Systems – commencing at Section
+27302) of the Vehicle Code, Federal Motor Vehicle Standards (49 C.F.R.571.205 and 49 C.F.R.
+571.212), and specific vehicle manufacturer specifications to ensure minimum inspection
+standards for the windshield, mirrors, safety belts, and the inflatable restraint system are met.
+3.2 Mirror Inspection
+Every motor vehicle, including motorcycles, shall have mirrors installed on the vehicle as
+originally equipped by the manufacturer. When inspecting the mirrors, the technician shall
+ensure:
+A. The vehicle or motorcycle mirrors are properly mounted in accordance with the
+manufacturer’s specifications.
+B. There are no objects, materials, damage, or deterioration of the mirror’s surface
+obstructing the driver’s view to the rear of the vehicle or motorcycle.
+C. All vehicle or motorcycle mirrors maintain a fixed position when adjusted.
+3.2 Windshield and Rear Window Inspection
+Windshields provide structural support to the passenger compartment of a motor vehicle in the
+event of a front-end collision or vehicle roll-over. Every passenger vehicle, other than a
+motorcycle, shall be equipped with a windshield that meets or may exceed Federal Motor
+Vehicle Safety Standards (49 C.F.R. 571.205 and 49 C.F.R. 571.212). It is unlawful to operate
+any motor vehicle when the windshield or rear window is in such defective condition that it
+impairs the driver’s vision either to the front or rear of the vehicle. When inspecting the
+windshield and rear window the technician shall ensure:
+A. There are no cracks in the windshield which can negatively impact its structural support
+in the event of a front-end collision or vehicle rollover.
+B. The driver's view of the road through the windshield and rear window is not impaired by:
+• Delamination of windshield
+• Damage to or deterioration of the glass surface
+DRAFT VSSI Manual 2023 16
+• Objects or materials placed, displayed, installed, applied or affixed to the glass
+surface, unless permitted by Section 27608 of the Vehicle Code.
+C. If a motorcycle is equipped with a front windshield that extends into the rider’s field of
+vision, the technician shall inspect it to ensure the rider’s view of the road is not impaired
+by damage to or deterioration of the windshield surface.
+3.4 Windshield Wiper System Inspection
+Every motor vehicle, except motorcycles, equipped with a windshield shall also be equipped
+with a self-operating windshield wiper system. When inspecting the windshield wipers, the
+technician shall ensure:
+A. The wiper(s) activate and operate as designed by the vehicle manufacturer.
+B. The wiper blade(s) are properly installed and free of any visual defects.
+3.5 Seat Inspection
+The technician shall verify that the seat(s) are securely fastened to the vehicle, all necessary
+mounting hardware is present, and both the upper and lower portions of the seat(s) maintain a
+fixed position when adjusted.
+3.6 Seatbelt Inspection
+All passenger vehicles built after January 1, 1968, except motorcycles, shall have a seatbelt for
+each seating position, including seating positions for wheelchairs when equipped with a
+wheelchair tie-down and occupant restraint system. When inspecting the seatbelts, the
+technician shall verify each seatbelt has the minimum number of factory attachment points in
+accordance with manufacturer specifications, and manually operate each seatbelt to ensure
+that:
+A. The seatbelt fabric webbing and/or stitching is not cut, frayed, or torn.
+B. The seatbelt buckle easily buckles and unbuckles to and from the seatbelt latch and
+stays buckled when the webbing is pulled outward from the buckle.
+C. If applicable, 3-point (lap and shoulder), and 2-point (lap) seatbelts with automatic
+retracting mechanisms smoothly extend and fully retract to and from the spool.
+D. Seatbelt spools with locking mechanism lock when the seatbelt webbing is suddenly
+pulled outward from the spool.
+If equipped with a seatbelt warning light and/or seatbelt alarm, the light and/or alarm must be
+functioning as designed by the manufacturer.
+DRAFT VSSI Manual 2023 17
+3.7 Child Seat LATCH System Inspection
+When a vehicle is equipped with a LATCH system the technician shall inspect the brackets
+and/or anchors to ensure that the system components are present, undamaged, and securely
+fastened.
+3.8 SRS Component Visual Inspection
+In an SRS equipped vehicle, the technician shall visually inspect SRS components that can be
+seen from inside the passenger compartment, without any disassembly, to ensure the air bags
+and seat belt/retractor pre-tensioners are present, and properly installed. The technician shall
+inspect:
+A. The air bag covers for any tears, unevenness, inconsistent appearance, or evidence of
+refinishing, which would indicate the air bag was previously deployed and repaired.
+B. The seat belt/retractor pre-tensioner assemblies for any melted, broken, or chemical
+discharge stains on housings indicating the pre-tensioner was previously deployed.
+3.9 SRS Warning Light Inspection
+If the vehicle is equipped with SRS, the technician shall verify that the dashboard warning light:
+A. Illuminates when the key is turned to the ignition on - engine off position. This “bulbcheck” allows for verification that the bulb is functional, but the bulb should turn off after
+the engine is started.
+B. Does not stay illuminated after the bulb-check. If the light stays illuminated after the bulbcheck, that is an indication of a system malfunction.
+Do Not Certify when:
+• Any of the vehicle mirrors, as originally equipped by the vehicle manufacturer, are
+missing, damaged, are not mounted in accordance with the manufacturer’s
+specifications, or have a damaged or deteriorated surface that obstructs the driver’s view
+to the rear of the vehicle.
+• The vehicle mirrors will not maintain a fixed position when adjusted.
+• There are chips, obstruction, or surface deterioration in the windshield or rear glass that
+obstructs the driver’s field of vision and view of the road.
+• The windshield on a motor vehicle is cracked
+• The windshield does not meet the Federal Motor Vehicle Safety Standards (49 C.F.R.
+571.205 and 49 C.F.R. 571.212).
+DRAFT VSSI Manual 2023 18
+• The windshield wipers are inoperative, do not operate as designed by manufacturer, or
+the wiper blade(s) are found to have visual defects.
+• Any seatbelt:
+o Does not have the minimum number of factory attachment points according to
+manufacturer’s specifications.
+o Required for a seating position is missing.
+o Does not extend, fully retract, and/or lock as designed by the manufacturer.
+o Fabric webbing and/or stitching is damaged.
+o Cannot be buckled or unbuckled.
+o Warning light and/or alarm are not functioning properly.
+• Any seat(s) installed in the vehicle is/are not securely fastened to the vehicle, and/or the
+upper and lower portions of the seat(s) do not maintain a fixed position.
+• The LATCH system bracket and/or anchors are missing, not securely fastened, or
+damaged.
+• Any air bag, that can be inspected without disassembly, appears to have been
+previously deployed based upon the visual inspection detailed in Section 3.8.
+• Any seat belt/retractor pre-tensioner, that can be inspected without disassembly,
+appears to have been previously deployed based upon the visual inspection detailed in
+Section 3.8.
+• The SRS warning light does not “bulb-check” or stays illuminated

@@ -1,0 +1,36 @@
+OpenAI CEO Sam Altman has admitted that the company’s latest AI model – GPT-5 had a ‘bumpy’ launch. The confession was made during a Reddit Ask Me Anything session on Friday, August 8 where Altman and members of the GPT-5 team answered questions about new features, problems at launch, and the now-famous “chart crime”.
+What is OpenAI’s ‘chart crime’ moment
+During GPT-5’s presentation, a flawed chart sparked jokes online. The chart misrepresented SWE-bench Verified data, exaggerating GPT-5's accuracy (74.9% with thinking, 52.8% without) compared to OpenAI o3 (69.1%) and GPT-4o (30.8%), likely due to swapped or misaligned bars, as noted in OpenAI's own SWE-bench Verified documentation released on August 7, 2025.
+Altman called it a “mega chart screwup” on X (formerly Twitter), clarifying that the blog post charts were accurate.
+  by TaboolaSponsored Links
+You May Like
+Use an AI Writing Tool That Actually Understands Your Voice
+Grammarly
+Sam Altman on GPT-5’s ‘disappointing’ launch
+One of GPT-5’s main features is a real-time router that decides whether to answer quickly or take extra time to “think.” But it failed on launch day, making the model appear “more bumpy,” Sam Altman said.
+“GPT-5 will seem smarter starting today. Yesterday, we had a sev and the autoswitcher was out of commission for a chunk of the day, and the result was GPT-5 seemed way dumber,” he wrote.
+“Also, we are making some interventions to how the decision boundary works that should help you get the right model more often. We will make it more transparent about which model is answering a given query”, Sam Altman told Redditors.
+ChatGPT Plus subscribers switch back to GPT-4o
+After the GPT-5 launch, many users complained, saying GPT-4o worked better for their needs. To this, Sam Altman responded:
+“We are looking into letting Plus users continue to use 4o. We are trying to gather more data on the tradeoffs.”
+“We are going to double rate limits for Plus users as we finish rollout,” he added.
+
+BIJNOR: A 35-year-old man, who had returned home from Haryana to celebrate Rakshabandhan with his family, died after being swept away by strong currents on a waterlogged road in Bijnor district, said police on Saturday.
+Neetu Singh went to nearby Sahaspur town on his scooter on Friday to withdraw money from a bank.
+While returning to Kiwar village, he reached a stretch near Jairampur village, which had been flooded for the past three days due to rainfall.
+Despite villagers warning him not to proceed on the submerged road, Singh chose to continue.
+As soon as he entered the waterlogged road, a strong current caused him to lose balance and fall, and swept him away. Locals found his body after two hours. Police sent the body to the district hospital for autopsy.
+Bijnor SP Abhishek Jha said, "Neetu worked as a factory supervisor in Haryana and had returned to Kaiwar to celebrate the festival with his two sisters. The body has been handed over to his family after autopsy on Saturday, and legal proceedings are on."
+
+
+Sabke boss unable to accept India’s growth’: Rajnath Singh’s swipe at Trump
+Defence minister says attempts are being made to make Indian products costlier, but asserts no power can stop India from becoming a global power
+Defence Minister Rajnath Singh on Sunday appeared to take aim at US President Donald Trump over the steep tariff threats to India, saying that some people , whom he described as the “sabke boss,” are unable to accept the pace of India’s rise as a global power.
+
+Singh said there were some people who were unhappy with the pace of India’s development and could not accept how quickly the country was progressing. According to him, these quarters believed they were “the boss of all” and questioned how India was growing at such a fast rate.
+
+He added that many were trying to ensure products made in India became more expensive than those made elsewhere, so that rising prices would deter global buyers. “This effort is underway,” he said, asserting with full confidence that no power in the world could now stop India from becoming a major global power.
+
+Trump recently imposed a 25% tariff on Indian imports, along with an additional 25% penalty, in retaliation for New Delhi’s continued purchase of Russian oil. The US President also warned of further tariff hikes, demanded that India halt its dealings with Russia, dismissed India’s economy as “dead,” and faced accusations from his close aides that New Delhi was financing Russia’s war in Ukraine.
+
+Singh said the current situation had not impacted India’s defence exports, which were continuing to grow. He noted that the country was now exporting defence items worth more than Rs 24,000 crore, describing it as a testament to the strength of India’s defence sector and the capabilities of “the new India.” He said exports were steadily rising year after year.
